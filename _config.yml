@@ -1,6 +1,6 @@
 # Jekyll Configuration
-name: Namito's Standups
-description: Script used to update my status during standups
-url: "http://namitoyokota.github.io/standups"
+name: Favorite Quotes
+description: A list of my inspirational quotes.
+url: "http://quotes.namito.wiki"
 markdown: kramdown
 highlighter: rouge
