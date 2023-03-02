@@ -26,3 +26,6 @@ A list of inspirational quotes.
 ## Corey Tyson
 Associate Director for Missional Communities
 > You can only love God as much as you know God.
+
+## Serena Williams
+> I don't cheat to win. I'd rather lose.
