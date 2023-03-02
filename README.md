@@ -29,3 +29,6 @@ Associate Director for Missional Communities
 
 ## Serena Williams
 > I don't cheat to win. I'd rather lose.
+
+## Kobe Bryant
+> Job's not finished.
