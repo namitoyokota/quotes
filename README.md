@@ -40,3 +40,12 @@ American former professional tennis player
 ## Kobe Bryant
 American former professional basketball player
 > Job's not finished.
+
+## Helen Keller
+> Keep your face to the sunshine and you cannot see a shadow.
+
+## Dr. Seuss
+> Don't cry because it's over; smile because it happened.
+
+## John Lennon
+> Count your age by friends, not years. Count your life by smiles, not tears.
